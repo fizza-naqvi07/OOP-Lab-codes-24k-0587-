@@ -1,0 +1,2 @@
+P1,Monitor,HD Display,200
+P2,Keyboard,Mechanical,100
